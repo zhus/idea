@@ -1,0 +1,5 @@
+<application>
+  <component name="ArchetypeCatalogSettings">
+    <archetype-catalog>http://maven.imagej.net/content/repositories/releases/archetype-catalog.xml</archetype-catalog>
+  </component>
+</application>
