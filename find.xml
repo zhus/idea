@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Watcher4] - ...\src\ear\Tiffc.scala'" />
-    <option name="defaultScopeName" value="File '[Watcher4] - ...\src\ear\Tiffc.scala'" />
-    <option name="SEARCH_SCOPE" value="File '[Watcher4] - ...\src\ear\Tiffc.scala'" />
+    <option name="customScope" value="Project 'Hello'" />
+    <option name="defaultScopeName" value="Project 'Hello'" />
+    <option name="SEARCH_SCOPE" value="Project 'Hello'" />
   </component>
 </application>
