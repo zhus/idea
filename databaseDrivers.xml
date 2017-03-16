@@ -50,6 +50,13 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="java.sql.Driver" name="Database Driver" dialect="GenericSQL" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://E:/!ibdeviz/firebirdsql-full.jar</url>
+      </library>
+    </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
