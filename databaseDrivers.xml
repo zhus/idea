@@ -50,7 +50,7 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="java.sql.Driver" name="Deviz Firebird" dialect="GenericSQL" driver-class="org.firebirdsql.jdbc.FBDriver">
+    <driver id="java.sql.Driver" name="Deviz Firebird" dialect="SQL92" driver-class="org.firebirdsql.jdbc.FBDriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
       <library>
