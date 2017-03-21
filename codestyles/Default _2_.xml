@@ -1,4 +1,5 @@
 <code_scheme name="Default (2)">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <codeStyleSettings language="Scala">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
