@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Macro.1">
+    <keyboard-shortcut first-keystroke="alt num_lock" />
+  </action>
+</keymap>
