@@ -1,3 +1,7 @@
 <code_scheme name="Default (1)">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <codeStyleSettings language="Scala">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+  </codeStyleSettings>
 </code_scheme>
