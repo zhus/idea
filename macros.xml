@@ -1,0 +1,24 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorCopy" />
+      <action id="ShowIntentionActions" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="ENTER" />
+      <action id="EditorLineEnd" />
+      <typing text-keycode="32:0;111:0;111:0;32:0">&amp;#x20;//&amp;#x20;</typing>
+      <action id="EditorPaste" />
+      <action id="EditorDown" />
+    </macro>
+  </component>
+</application>
